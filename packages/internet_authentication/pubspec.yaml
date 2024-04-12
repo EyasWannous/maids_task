@@ -1,0 +1,21 @@
+name: internet_authentication
+description: Provide the logic of dealing with RESTFull Api of Authentications.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  build_runner: ^2.4.9
+  json_serializable: ^6.7.1
+  mocktail: ^1.0.0
+  test: ^1.19.2
+  very_good_analysis: ^5.1.0
+
+dependencies:
+  authentication_api:
+    path: ../authentication_api
+  http: ^1.2.1
+  json_annotation: ^4.8.1
+  shared_preferences: ^2.2.2
