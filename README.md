@@ -29,7 +29,7 @@ This app demonstrates various Flutter development skills, including:
 * **Challenges Faced:** Performance Challenge becusae there is **Shader compilation jank** at the start of the app
   and after searching abouth the problem I find this [answer](https://stackoverflow.com/questions/75920582/what-is-sksl-and-shader-jank-compilation-all-about-in-flutter)
   on **Stack overFlow** and find that the problem was from the **Skia rendering engine** and to solve it I should user **Impeller rendering engine**
-  instead of **Skid**
+  instead of **Skia**
   
 * **Additional Features:** Added **Dark theme**, **Animation**, **Stats** pasge for complete and active tasks
   and **BLoC Observer** for insure that the bloc react well and change his state for every action that needs to change the state.
