@@ -40,12 +40,13 @@ This app demonstrates various Flutter development skills, including:
 2. Install dependencies: `flutter pub get`
 3. Run the app: `flutter run`
 4. The Login page will appear to you, you should login with one of users in this [endpoint](https://dummyjson.com/users)
-5. After that you will navigate automatically to home page and there will be your tasks.
-6. If you want to **fetch more** you should **scroll up** to send request of more tasks
-7. Your respones of **new tasks** will appear in the **first of the page** and the **old tasks** will be **in the end**.
-8. If you want to **edit** the task click on it, then the edit page will appear.
-9. If you want to **delete** swipe the task to left.
-10. There is stats page to see number of the completed tasks and active tasks.
+   (example : username **atuny0** password **9uQFF1Lh** )
+6. After that you will navigate automatically to home page and there will be your tasks.
+7. If you want to **fetch more** you should **scroll up** to send request of more tasks
+8. Your respones of **new tasks** will appear in the **first of the page** and the **old tasks** will be **in the end**.
+9. If you want to **edit** the task click on it, then the edit page will appear.
+10. If you want to **delete** swipe the task to left.
+11. There is stats page to see number of the completed tasks and active tasks.
 
 ## Note
 
