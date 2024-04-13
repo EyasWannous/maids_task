@@ -39,6 +39,10 @@ This app demonstrates various Flutter development skills, including:
 1. Clone this repository.
 2. Install dependencies: `flutter pub get`
 3. Run the app: `flutter run`
+4. The Login page will appear to you, you should login with one of users in this [endpoint](https://dummyjson.com/users)
+5. After that you will navigate automatically to home page and there will be your tasks.
+6. If you want to fetch more you should scroll up to send request of more tasks
+7. Your respones of tasks will appear in the first of the page and the old tasks will be in the end.
 
 ## Note
 
